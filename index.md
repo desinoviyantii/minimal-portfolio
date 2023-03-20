@@ -11,10 +11,10 @@ DISEASE DIAGNOSIS IN HEALTHCARE](/sample_page)
 
 <a href="pdf/tugas1-2dataanalyst.pdf">Download File</a>
 
-<img src="images/1.png?raw=true"/>
-<img src="images/2.png?raw=true"/>
-<img src="images/3.png?raw=true"/>
-<img src="images/4.png?raw=true"/>
+<img src="images/1.PNG?raw=true"/>
+<img src="images/2.PNG?raw=true"/>
+<img src="images/3.PNG?raw=true"/>
+<img src="images/4.PNG?raw=true"/>
 
 ### Skills
 
